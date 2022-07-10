@@ -8,5 +8,9 @@ parts:
   chapters:
   - file: markdown/installation.md
   - file: notebooks/Fermat_quick_start.ipynb
-- caption: markdown/refences.md
-- caption: markdown/contribute.md
+- caption: References
+   chapters:
+   - file: markdown/refences.md
+- caption: Contribute
+   chapters
+   - file: markdown/contribute.md
