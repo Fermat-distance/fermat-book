@@ -13,7 +13,7 @@ parts:
   - file: notebooks/Clustering.ipynb
 - caption: References
   chapters:
-  - file: markdown/refences.md
+  - file: markdown/references.md
 - caption: Contribute
   chapters:
   - file: markdown/contribute.md
