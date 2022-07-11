@@ -8,6 +8,9 @@ parts:
   chapters:
   - file: markdown/installation.md
   - file: notebooks/Fermat_quick_start.ipynb
+- caption: Use cases
+  chapters:
+  - file: notebooks/Clustering.ipynb
 - caption: References
   chapters:
   - file: markdown/refences.md
